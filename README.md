@@ -20,7 +20,7 @@
 
 #### 🧩 Other Experience
 
-- Backend – Python, FastAPI  
+- Backend – Odoo, Python, FastAPI  
 - Frontend – HTML, CSS, JavaScript, TailwindCSS, TypeScript, React
 
 ---
