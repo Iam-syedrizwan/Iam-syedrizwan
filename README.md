@@ -7,10 +7,10 @@
 - Saga Orchestration & Event-Driven Architecture
 - Test-Driven Development (TDD)
 - Scalable system design & smooth user experiences
+  
+---
 
 ### 🧪 Expertise & Technical Skills
-
-#### ✅ Core Specializations
 
 - Elixir / Phoenix – REST APIs, WebRTC, Video Rooms, AI, GraphQL, WebSockets, LiveView
 - Testing – Unit & Integration testing (ExUnit, Wallaby)
@@ -22,8 +22,6 @@
 
 - Backend – Odoo, Python, FastAPI  
 - Frontend – HTML, CSS, JavaScript, TailwindCSS, TypeScript, React
-
----
 
 ### ☁ Cloud, Messaging & Infrastructure
 
