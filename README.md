@@ -20,7 +20,7 @@
 
 #### 🧩 Other Experience
 
-- Backend – Odoo, Python, FastAPI  
+- Backend – Phoenix, Odoo community, Python, FastAPI, Django  
 - Frontend – HTML, CSS, JavaScript, TailwindCSS, TypeScript, React
 
 ### ☁ Cloud, Messaging & Infrastructure
